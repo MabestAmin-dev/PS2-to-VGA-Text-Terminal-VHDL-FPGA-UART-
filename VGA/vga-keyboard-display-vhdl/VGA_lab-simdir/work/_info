@@ -1,0 +1,306 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/bjoli290/TSEA83/tsea83/tsea83-47k/lab4/VGA_lab_v5/VGA_lab-simdir
+T_opt
+!s110 1677074206
+Vl<?m<3eCA9STcULN;UKcL0
+04 10 4 work vga_lab_tb func 1
+=1-6805cab238cb-63f61f1e-8b259-3865
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Echar_rom
+Z1 w1677073856
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8../VGA_MOTOR/CHAR_ROM.vhd
+Z6 F../VGA_MOTOR/CHAR_ROM.vhd
+l0
+L15
+V76c?A4BlJNkLXVfOHkLRf1
+!s100 ?m8TzY_`L9:_JFl2kYZYQ1
+Z7 OL;C;10.6d;65
+32
+Z8 !s110 1677074204
+!i10b 1
+Z9 !s108 1677074204.000000
+Z10 !s90 +acc|../VGA_MOTOR/CHAR_ROM.vhd|../VGA_MOTOR/VGA_MOTOR.vhd|../VIDEO_RAM.vhd|../PRET_CPU.vhd|../KBD_ENC.vhd|../VGA_lab.vhd|
+Z11 !s107 ../VGA_lab.vhd|../KBD_ENC.vhd|../PRET_CPU.vhd|../VIDEO_RAM.vhd|../VGA_MOTOR/VGA_MOTOR.vhd|../VGA_MOTOR/CHAR_ROM.vhd|
+!i113 0
+Z12 o+acc
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 8 char_rom 0 22 76c?A4BlJNkLXVfOHkLRf1
+l28
+L24
+VJ=34z`MaldO6z=:b6Z;Cl0
+!s100 K=[_Zz>kBSFfoaj>QdI`41
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Ekbd_enc
+R1
+R2
+R3
+R4
+R0
+Z14 8../KBD_ENC.vhd
+Z15 F../KBD_ENC.vhd
+l0
+L17
+VaET`d6ahN[kZhGfR>a^8g0
+!s100 l3hna5:i[C3fNH9AH=13g1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 kbd_enc 0 22 aET`d6ahN[kZhGfR>a^8g0
+l43
+L28
+V8l7GX8g4SOFGhh^e9A;EI1
+!s100 Q]Qz8S8XFI4JdGzLo>4LQ2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Epret_cpu
+R1
+R2
+R3
+R4
+R0
+Z16 8../PRET_CPU.vhd
+Z17 F../PRET_CPU.vhd
+l0
+L16
+VXiUNE@SUa?>=bQLG^_ej@1
+!s100 k[d^h2WJ7P0GJHoEf`7Se3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 8 pret_cpu 0 22 XiUNE@SUa?>=bQLG^_ej@1
+l41
+L28
+VM8mJj@;950f8bHL]hk]]m0
+!s100 ]Dmo;Zn76c6LT^S7z>3T?2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Evga_lab
+Z18 w1677073894
+R2
+R3
+R4
+R0
+Z19 8../VGA_lab.vhd
+Z20 F../VGA_lab.vhd
+l0
+L14
+Vm9]nF3f5];@F`LD]Fh3Rb0
+!s100 ?QY:fZK2kfBU1:??Lnc<W0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 vga_lab 0 22 m9]nF3f5];@F`LD]Fh3Rb0
+l97
+L29
+VBz8_;@bPJU:PYL1R[]3hL1
+!s100 8N:g@X]T^zdHbTg_jQA@d3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Evga_lab_tb
+R18
+R2
+R3
+R4
+R0
+Z21 8../VGA_lab_tb.vhd
+Z22 F../VGA_lab_tb.vhd
+l0
+L13
+V3gL`d_:85oN3Ue>TzD68C2
+!s100 2SSO=g;z_?IHYGAIjiUaO2
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 +acc|../VGA_lab_tb.vhd|
+Z24 !s107 ../VGA_lab_tb.vhd|
+!i113 0
+R12
+R13
+Afunc
+R2
+R3
+R4
+DEx4 work 10 vga_lab_tb 0 22 3gL`d_:85oN3Ue>TzD68C2
+l40
+L16
+VTZ_0UU;VY1S_hUH1NW[4h3
+!s100 8h^J95<7P:A`HNPm<:H:[2
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 0
+R12
+R13
+Evga_motor
+Z25 w1677073893
+R2
+R3
+R4
+R0
+Z26 8../VGA_MOTOR/VGA_MOTOR.vhd
+Z27 F../VGA_MOTOR/VGA_MOTOR.vhd
+l0
+L14
+VXB>RQHB<Ke1Rc:LDI`VV13
+!s100 6RnA2G8`8^O77ckZMgel;3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 9 vga_motor 0 22 XB>RQHB<Ke1Rc:LDI`VV13
+l51
+L29
+VH3BS@JJoa2DKYhkQ?AKaW0
+!s100 E^g?mfZ=XW9D?=0]NWEAR0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Evideo_ram
+R18
+R2
+R3
+R4
+R0
+Z28 8../VIDEO_RAM.vhd
+Z29 F../VIDEO_RAM.vhd
+l0
+L15
+Vn<oM]WH_8bXQeaM@8C=Sc1
+!s100 f0V1eHZi36X5`3zIT:A5Q0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 9 video_ram 0 22 n<oM]WH_8bXQeaM@8C=Sc1
+l39
+L32
+VSHmEhf_O?ckZlbXdfmIkQ1
+!s100 DRiRMET=TFf7Y=m1;AIh>0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
